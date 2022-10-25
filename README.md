@@ -8,14 +8,14 @@ The project was intended to consolidate the scope of material from the first par
 C++
 
 ## Launch
-Clone this repository and then run: Ćwiczenie 5.exe
+Clone this repository and then run: Poker.exe
 
 ## Project status
 Probably in the future the project will be enriched with arrays in order to improve the program operation.
 
 ## Sources
-This program is based on a task described in Alex Allain's book "Jumping into C++" in "Adding a random element to a program" chapter.
+This program is based on a task described in Alex Allain's book "Jumping into C++" in "Adding a random element to a program" chapter (ch. eight).
 
 ## Other informations
-This app is made in polish language.
+This app was made in polish language.
 If you have any comments, questions or you wanna chat, write to me by e-mail adress: m.szewczyk2@o2.pl
